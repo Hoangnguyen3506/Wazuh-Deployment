@@ -56,7 +56,7 @@ chmod 700 ./wazuh-install.sh
 ```
 ![Figure 2: Install the script and give permission](/images/wazuh.png)
 
-The next step is too type in the all in one script in order to install Wazuh 
+The next step is to type in the all in one script in order to install Wazuh 
 ```bash
 sudo bash wazuh-install.sh -a
 ```
